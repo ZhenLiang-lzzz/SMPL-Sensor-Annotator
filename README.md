@@ -2,10 +2,6 @@
 
 An interactive web-based tool for selecting sensor locations on the SMPL body model and exporting corresponding vertex, UV, and grid mappings.
 
-<p align="center">
-  <img src="docs/screenshot.png" width="900">
-</p>
-
 ### Demo
 
 A short demonstration video is available in:
