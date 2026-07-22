@@ -6,10 +6,7 @@ An interactive web-based tool for selecting sensor locations on the SMPL body mo
 
 A short demonstration video is available in:
 
-
-https://github.com/user-attachments/assets/aa54578b-9f3e-4797-bfdf-5398c0b2f97d
-
-
+https://github.com/user-attachments/assets/f7962e10-7bc4-4c4f-8728-4cb67214b7b6
 
 ## Features
 
