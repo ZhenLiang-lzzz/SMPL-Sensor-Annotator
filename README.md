@@ -1,4 +1,6 @@
 # SMPL Sensor Annotator
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An interactive web-based tool for selecting sensor locations on the SMPL body model and exporting corresponding vertex, UV, and grid mappings.
 
